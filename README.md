@@ -75,5 +75,5 @@ Although printing is optional, the model was engineered strictly from a **Design
 
 ## 📐 Resources & Credits
 
-* 📹 **Functional Demo Video:** [link]
+* 📹 **Functional Demo Video:** [(https://youtu.be/YVgBpsRyGC8)]
 * 📦 Inspiration Reference: Mechanical Water Droplet Automaton Concepts.
