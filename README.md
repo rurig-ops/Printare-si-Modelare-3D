@@ -62,7 +62,7 @@ Although printing is optional, the model was engineered strictly from a **Design
 ### Components Used:
 1. **`baza+laterale` (Main Base Frame):** Serves as the stable foundation and holds the horizontal rotating shaft.
 2. **`bara_32cm` (Crank Shaft Assembly):** Houses the array of phased eccentric disks/cams that generate the mechanical wave.
-3. **`Maner` (Handle):** Manual actuator interface to drive the rotary input.
+3. **`Cercuri_mici` (Mechanism small circles):** the circles that rotate with the crank and lift/lower the push-rods.
 4. **`Bar_vert` (Push-Rods Array):** Translates the rotary cam action into vertical linear motion.
 5. **`Cercuri_superioare` (Concentric Wave Rings):** The final visual output that represents the undulating water ripple.
 
@@ -75,5 +75,5 @@ Although printing is optional, the model was engineered strictly from a **Design
 
 ## 📐 Resources & Credits
 
-* 📹 **Functional Demo Video:** [link]
+* 📹 **Functional Demo Video:** [(https://youtu.be/YVgBpsRyGC8)]
 * 📦 Inspiration Reference: Mechanical Water Droplet Automaton Concepts.
